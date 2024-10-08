@@ -16,12 +16,11 @@ Ensure the following are installed:
 
 - Python 3.x
 - PySpark
-- unittest or pytest for testing
 
 You can install the required Python libraries with:
 
 ```bash
-pip install pyspark lxml pytest
+pip install pyspark lxml 
 ```
 
 ## Running the Project
