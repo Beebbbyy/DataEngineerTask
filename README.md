@@ -22,3 +22,14 @@ You can install the required Python libraries with:
 
 ```bash
 pip install pyspark lxml pytest
+```
+
+##Running the Project
+Ensure the XML file is in the correct directory:
+
+1. Place your sample XML file in the appropriate folder, e.g., jupyter_workspace/DataEngineer_Test/Source File/sample_data.xml.
+Run the Transformation Notebook:
+
+2. Open the transformation.ipynb notebook and run the cells to process the XML file and generate Parquet files.
+
+3. After processing, the resulting Parquet files will be saved in the output folder, and compressed using Snappy.
