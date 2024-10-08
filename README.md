@@ -24,7 +24,7 @@ You can install the required Python libraries with:
 pip install pyspark lxml pytest
 ```
 
-##Running the Project
+## Running the Project
 Ensure the XML file is in the correct directory:
 
 1. Place your sample XML file in the appropriate folder, e.g., jupyter_workspace/DataEngineer_Test/Source File/sample_data.xml.
